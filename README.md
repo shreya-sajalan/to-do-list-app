@@ -1,4 +1,4 @@
-### to-do-list-app
+# to-do-list-app
 
 # DESCIPTION:-
 This project was to make a simple to do list app. The app performs a very simple tasks like adding a new task and after completing discarding the tasks.
