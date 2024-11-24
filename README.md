@@ -1,4 +1,4 @@
-# to-do-list-app
+# TO-DO LIST APPLICATION
 
 # DESCIPTION:-
 This project was to make a simple to do list app. The app performs a very simple tasks like adding a new task and after completing discarding the tasks.
@@ -7,13 +7,13 @@ This project was to make a simple to do list app. The app performs a very simple
 # Frontend Development: HTML and CSS
 # Backend Development: PYTHON
 
-For Software:
+# For Software:
 - Languages used: HTML,CSS,PYTHON
 - Frameworks used: HTML/CSS,PYTHON,FLASK
 - Libraries used: FLASK
-- Tools used: VS CODE,CHAT GPT
+- Tools used: VS CODE,CHAT GPT,GOOGLE
 
-For Hardware:
+# For Hardware:
 - LAPTOP
 - SMARTPHONE
 
